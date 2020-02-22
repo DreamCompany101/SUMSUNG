@@ -1,5 +1,0 @@
-Hi,
-
-This is test file 2 for Git
-
-Making changes to this file.
